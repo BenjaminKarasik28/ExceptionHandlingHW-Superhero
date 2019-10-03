@@ -1,0 +1,4 @@
+Superman,Clark Kent,Krypton
+Batman,Bruce Wayne,Earth
+Spiderman,Peter Parker,Earth
+Wonder Woman,Diana,Amazon
